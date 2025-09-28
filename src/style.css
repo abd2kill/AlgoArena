@@ -1,0 +1,57 @@
+.gradient-text {
+  background: linear-gradient(135deg, #8b5cf6, #ec4899);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gradient-bg {
+  background: linear-gradient(135deg, #8b5cf6, #ec4899);
+}
+.trading-card {
+  background: #1e293b;
+  border: 1px solid #334155;
+  transition: all 0.3s ease;
+}
+.trading-card:hover {
+  border-color: #475569;
+  transform: translateY(-2px);
+}
+.strategy-card {
+  transition: all 0.2s ease;
+}
+.strategy-card:hover {
+  transform: translateY(-2px);
+  border-color: #8b5cf6;
+}
+#chart {
+  background: #0f172a;
+}
+.bot-trade-marker {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+.bot-entry-buy {
+  background-color: #10b981;
+}
+.bot-entry-sell {
+  background-color: #ef4444;
+}
+.bot-exit {
+  background-color: #f59e0b;
+}
+.progress-bar {
+  background: #334155;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.progress-fill {
+  background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+  height: 100%;
+  transition: width 0.5s ease;
+}@import '../libraries/pico.min.css';
+
+  
+@tailwind components;
+@tailwind utilities;

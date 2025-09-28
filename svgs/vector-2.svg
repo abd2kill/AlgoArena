@@ -1,0 +1,5 @@
+<svg class="h-12 transition-all duration-300" :class="arenaActive ? 
+                           'text-green-400 drop-shadow-[0_0_10px_rgba(74,222,128,0.8)]' : 
+                           'text-[#8b5cf6] drop-shadow-[0_0_6px_rgba(139,92,246,0.5)]'" viewBox="0 0 24 24">
+                      <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 2v10m6.4-5.4a9 9 0 1 1-12.77.04"></path>
+                    </svg>
